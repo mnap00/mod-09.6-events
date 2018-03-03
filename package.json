@@ -1,6 +1,6 @@
 {
-  "name": "mod-09.5-buttons",
-  "version": "0.5.0",
+  "name": "mod-09.6-events",
+  "version": "0.6.0",
   "description": "Print triangle area to console",
   "main": "index.js",
   "scripts": {
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnap00/mod-09.5-buttons.git"
+    "url": "git+https://github.com/mnap00/mod-09.6-events.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mnap00/mod-09.5-buttons/issues"
+    "url": "https://github.com/mnap00/mod-09.6-events/issues"
   },
-  "homepage": "https://github.com/mnap00/mod-09.5-buttons#readme",
+  "homepage": "https://github.com/mnap00/mod-09.6-events#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
